@@ -9,6 +9,8 @@ SET(EXAMPLE_DIRS
   Status
   Receiver
   Thread
+  #lab
+  LAB_PWP
   )
 
 if (${OpenIGTLink_PROTOCOL_VERSION} GREATER 1)
